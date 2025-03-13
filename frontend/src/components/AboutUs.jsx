@@ -4,7 +4,7 @@ import { FaClock, FaShieldAlt, FaMapMarkedAlt } from "react-icons/fa";
 const AboutUs = () => {
   return (
     <div className="bg-[#7BBCB0] rounded-[30px] p-10 text-white text-center my-16 mx-auto w-4/5">
-      <h2 className="text-3xl font-bold mb-6">Why Book with Tour-Guide</h2>
+      <h2 className="text-3xl font-bold mb-6">Why Book with Tour Guide</h2>
       
       <div className="flex flex-col md:flex-row justify-around items-center gap-8">
         {/* 24/7 Customer Support */}

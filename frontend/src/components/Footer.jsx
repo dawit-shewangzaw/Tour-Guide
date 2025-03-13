@@ -48,7 +48,7 @@ const Footer = () => {
       <hr className="border-gray-500 mb-2" />
       {/* Footer Bottom */}
       <div className="flex flex-col md:flex-row items-center justify-between">
-        <p className="text-gray-300">Copyright 2021 Tour Guide. All Rights Reserved</p>
+        <p className="text-gray-300">Copyright 2025 Tour Guide. All Rights Reserved</p>
         <div className="flex space-x-4 mt-4 md:mt-0">
           <a href="#" target="_blank" rel="noopener noreferrer" className="w-10 h-10 flex items-center justify-center rounded-full bg-[#4b69b1] text-white">
             <FaFacebookF size={18} />

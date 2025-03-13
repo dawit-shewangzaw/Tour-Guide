@@ -15,8 +15,8 @@ const Navbar = () => {
         <nav className="fixed top-0 left-0 w-full bg-[#7BBCB0] text-white shadow-md z-50">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16">
                 {/* Logo */}
-                <Link to="/" className="text-2xl font-bold text-white" >
-                    Tour-Guide
+                <Link to="/" className="text-2xl font-bold text-white ml-10" >
+                    Tour Guide
                 </Link>
 
                 {/* Menu Icon */}
